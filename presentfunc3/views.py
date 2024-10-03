@@ -13,5 +13,5 @@ def aboutbike(request):
 
 
 def socnet(request):
-    return HttpResponse("Соцсети")
+    return HttpResponse("Social Networks")
 # Create your views here.
